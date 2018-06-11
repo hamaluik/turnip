@@ -1,3 +1,3 @@
 # turnip
 
-Blender addon for [Baldrick](https://github.com/BlazingMammothGames/baldrick)
+Blender addon for [baldrick](https://github.com/BlazingMammothGames/baldrick)
